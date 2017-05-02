@@ -2,7 +2,7 @@
 # Use Jalangi 2
 https://github.com/Samsung/jalangi2
 
-Note: Submission doesn't include jalangi2 repo as the file size exceed 90mb, so manually have to be installed
+Note: Jalangi 2 framework not included in this repo, needs to be downloaded in order to make this work
 
 #Requirement
 
